@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "From Delamination to Data Science"
-date:       2020-05-30 03:37:55 +0000
+date:       2020-05-29 23:37:56 -0400
 permalink:  from_delamination_to_data_science
 ---
 
